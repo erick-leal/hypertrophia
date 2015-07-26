@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Hypertrophia</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="home_titulo">GYM Hypertrophia</string>
+    <string name="home_login">Tu Progreso</string>
+    <string name="home_disciplina">Disciplinas</string>
+    <string name="home_rutina">Rutinas</string>
+    <string name="home_nutricion">Nutricion</string>
+    <string name="home_ejercicios">Ejercicios</string>
+    <string name="home_salir">Salir</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="zumba">¿Qué es Zumba?
+    Un entrenamiento completo que combina todos los elementos del acondicionamiento físico: trabajo cardiovascular y muscular, equilibrio y flexibilidad, aumento de energía y muchísimos beneficios increíbles que disfrutarás después de cada clase.</string>
+    <string name="baileentretenido">¿Qué es Baile Entretenido
+    Esta entretenida clase combina pasos simples de baile y aprendizaje de los mismos a través de pequeñas coreografías de salsa, merengue, mambo, rock and roll y ritmos de moda, con ejercicios ligeros para mejorar el balance, fuerza, coordinación y flexibilidad de los participantes.</string>
+    <string name="bodycombat">¿Qué es el Body Combat?
+        El Body Combat pone en funcionamiento todos los grupos de músculos, especialmente de los brazos, hombros, espalda y abdominales. El body combat permite trabajar la flexibilidad, la fuerza y la resistencia. Constituye una práctica intensa ideal para liberar estrés y para bajar de peso.</string>
+
+    <string name="instrucciones">Instrucciones:</string>
+
+    <string name="pressbancoplano1">Acostado sobre un banco plano, los pies en el suelo y los gluteos en contacto con el banco.</string>
+    <string name="pressbancoplano2">- Coger la barra con las manos y separarlas en una longitud superior al ancho de los hombros.</string>
+    <string name="pressbancoplano3">- Inhalar y bajar la barra hacia el pecho controlando el movimiento.</string>
+    <string name="pressbancoplano4">- Realizar exhalando al final del esfuerzo. </string>
+
+    <string name="pressbancoinclinado1">Sentado en un banco inclinado, entre 45° y 60°, coger la barra, manos separadas en una longitud superior a la de los hombros.</string>
+    <string name="pressbancoinclinado2">- Inhalar y bajar la barra sobre la parte superior de nuestro pecho. Desarrollar exhalando al final del movimiento.</string>
+
+    <string name="pressbancodeclinado1">Acostado con la cabeza hacia abajo en un banco mas o menos inclinado (entre 20° y 40°). Los pies fijos, coger la barra con las manos y separarlas en una longitud igual o superior al ancho de los hombros.</string>
+    <string name="pressbancodeclinado2">- Inhalar y bajar la barra sobre la parte baja del pecho controlando el movimiento, realizar exhalando al final del movimiento.</string>
+
+    <string name="flexionesdebrazos1">- Brazos estirados en apoyo de cara al suelo, las manos separadas una distancia igual o superior al ancho de los hombros, pies juntos o muy poco separados.</string>
+    <string name="flexionesdebrazos2">- Inhalar y realizar flexión de brazos intentando llevar el pecho cerca del suelo evitnado curvar demasiado la región lumbar.</string>
+    <string name="flexionesdebrazos3">- Empujar sobre el suelo hasta consegir la extensión total de los brazos.</string>
+
+    <string name="pressconmancuerna1">Estirado sobre un banco plano con los pies en el suelo, brazos extendidos verticalmente y cogiendo las mancuernas.</string>
+    <string name="pressconmancuerna2">- Inhalar y bajar las mancuernas hasta el nivel pectoral, flexionando los codos.</string>
+    <string name="pressconmancuerna3">- Desarrollar y cuando las manos se ecuentren frente a frente, efectuar una contracción. Exhalar al final del movimiento.</string>
+
+    <string name="aperturaconmancuernas1">Estirado sobre un banco estrecho para no molestar los movimientos de los hombros, coger las mancuernas con las manos, los brazos extendidos o codos ligeramente flexionados.</string>
+    <string name="aperturaconmancuernas2">- Inhalar y separar los brazos hasta la horizontal, subir los brazos hasta la vertical, exhalando al mismo tiempo.</string>
+
+    <string name="aperturainclinadoconmancuernas1">Sentado en un banco más o menos inclinado (40° a 60°), las masncuernas en las manos, brazos extendidos en vertical o ligeramente flexionados para aliviar la articulacion del codo.</string>
+    <string name="aperturainclinadoconmancuernas2">- Inhalar y acontinuación separar los brazos hasta la horizontal.</string>
+    <string name="aperturainclinadoconmancuernas3">- Elevar los brazos hasta la vertical exhalando.</string>
+
+    <string name="poleaalpecho1">Sentado frente al aparato, con las piernas fijadas, barra cogida y manos separadas.</string>
+    <string name="poleaalpecho2">- Inhalar y tirar de la barra hasta el pecho ensanchando el pecho y llevando los codos hacia atrás. Exhalar al finalizar el movimiento.</string>
+
+    <string name="remoenpoleabaja1">Sentado de cara al aparato, con los pies anclados y tronco flexionado.</string>
+    <string name="remoenpoleabaja2">- Inhalar y llevar el mango hasta la parte baja del pecho enderezando la espalda y llevando los codos lo mas atras posible.</string>
+
+    <string name="remohorizontalconbarra1">De pie con las rodillas ligeramente flexionadas, el tronco inclinado 45° y espalda recta, barra cogida con las manos separadas a una distancia superior al ancho de los hombros, brazos colgando.</string>
+    <string name="remohorizontalconbarra2">- Inhalar y tirar de la barra hasta el pecho. Volver a la posicion de partida y exhalar.</string>
+
+    <string name="remohorizontalconmancuerna1">Coger una mancuerna con una mano en semipronación, la mano y la rodilla opuestas apoyadas sobre un banco y espalda fija.</string>
+    <string name="remohorizontalconmancuerna2">- Inhalar y tirar de la mancuerna lo mas posible con el brazo paralelo al cuerpo llevando el codo bien hacia atrás. Exhalar al finalizar el movimiento.</string>
+
+    <string name="rutinaabd1">Llevar a cabo una rutina de abdominales bien planificada y constante es un requisito indispensable para consegir un abdomen plano, marcado y fuerte.</string>
+    <string name="rutinaabd2">Para ello es necesario realizar gran variedad de ejercicios abdominales que ataquen los músculos del abdomen desde los ángulos (inferior, superior y lateral).</string>
+    <string name="rutinaabd3">Si quieres tener unos músculuos del abdomen bien definidos y marcados, son necesarios 3 pasos:</string>
+    <string name="rutinaabd4">   1) Realizar las rutinas de abdominales que aqui te mostraremos y fijarte bien en la forma correcta de ejecutar los ejercicios que componen cada rutina.</string>
+    <string name="rutinaabd5">   2) Disminuye la grasa que se acumula en el abdomen: para esto tienes que realizar ejercicios para adelgazar como caminar, trotar, aeróbicos, nadar, bailar, etc.</string>
+    <string name="rutinaabd6">   3) Lleva a cabo una dieta baja en grasas.</string>
+
+    <string name="rutinaprincipiante">Si nunca has entrenado con pesas, necesitas una rutina para preparar tus músculos para entrenamientos más intensos. Aquí te mostraremos dos planes de entrenamiento :</string>
+</resources>

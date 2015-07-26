@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ejercicios_espalda">
+        <item>Polea al pecho </item>
+        <item>Remo en polea baja</item>
+        <item>Remo horizontal con barra</item>
+        <item>Remo horizontal con mancuerna</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ejercicios_pectorales">
+        <item>Press de banco plano </item>
+        <item>Press de banco inclinado</item>
+        <item>Press de banco declinado</item>
+        <item>Flexiones de brazos</item>
+        <item>Press con mancuernas</item>
+        <item>Aperturas con mancuernas</item>
+        <item>Apertura inclinado con mancuernas</item>
+    </string-array>
+</resources>

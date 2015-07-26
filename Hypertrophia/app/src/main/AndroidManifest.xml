@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.erick.hypertrophia" >
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/hypertrophia"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".home"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".tuprogreso"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".disciplina"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".rutina"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".nutricion"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".usuario"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".horarioM"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".horarioZ"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".horarioBE"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".horarioBC"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".instructorZumba"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".instructorBE"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".instructorBC"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".ejercicio"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".pectorales"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".espalda"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".biceps"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".triceps"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".hombros"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".piernas"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".antebrazos"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".abdominales"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".pepressdebancoplano"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".pepressdebancoinclinado"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".pepressdebancodeclinado"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".peflexionesdebrazos"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".peaperturaconmancuernas"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".peaperturainclinadoconmancuernas"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".pepressconmancuernas"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".espoleaalpecho"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".esremoenpoleabaja"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".esremohorizontalconbarra"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".esremohorizontalconmancuernas"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".rutinaabdominales"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".trensuperior"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".treninferior"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".rutinaprincipiante"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".rutinaestiramientos"
+            android:label="@string/app_name" >
+        </activity>
+
+
+
+    </application>
+
+</manifest>
